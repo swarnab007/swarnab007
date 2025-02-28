@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnab007&label=Profile%20views&color=0e75b6&style=flat" alt="swarnab007" /> </p>
 
-- 🔭 I’m currently working on **Netflix clone project**
+- 🔭 I’m currently working on **Scalable E Commerce Website Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Advanced Backend and Devops Stuffs**
 
-- 💬 Ask me about **HTML, CSS, C++, JAVASCRIPT**
+- 💬 Ask me about **React, Node js, Devops**
 
 - ⚡ Fun fact **Programming is not that tough that you think**
 
